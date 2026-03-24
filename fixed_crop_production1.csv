@@ -1,0 +1,9 @@
+State,Year,Crop,Season,Area,Rainfall,Temperature,Production
+Assam,2018,Rice,Kharif,1200,1800,28,3500
+Assam,2019,Rice,Kharif,1300,1750,27,3600
+Punjab,2018,Wheat,Rabi,1500,500,20,4000
+Punjab,2019,Wheat,Rabi,1600,520,21,4200
+Bihar,2018,Maize,Kharif,1100,1400,30,3000
+Bihar,2019,Maize,Kharif,1150,1350,29,3200
+UP,2018,Rice,Kharif,2000,1600,28,5000
+UP,2019,Rice,Kharif,2100,1580,27,5200
